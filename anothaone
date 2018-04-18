@@ -12,8 +12,8 @@ move
 0 175 0
 rotate
 y 90
-sphere
-0 0 0 50
+box
+0 0 0 50 50 50
 pop
 #LEFT ARM
 push
